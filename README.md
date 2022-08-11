@@ -1,8 +1,8 @@
 Particle Effect For UGUI (UI Particle)
 ===
 
-This plugin provide a component to render particle effect for uGUI in Unity 2018.2 or later.  
-The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.
+插件为Unity 2018.2或更高版本中的UGUI提供了一个渲染粒子效果的组件 
+粒子的渲染是可遮蔽和可分类的，没有相机、RenderTexture或Canvas
 
 [![](https://img.shields.io/npm/v/com.coffee.ui-particle?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.ui-particle/)
 [![](https://img.shields.io/github/v/release/mob-sakai/ParticleEffectForUGUI?include_prereleases)](https://github.com/mob-sakai/ParticleEffectForUGUI/releases)
